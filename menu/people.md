@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: <div align=center> People
 permalink: /people
 ---
 
