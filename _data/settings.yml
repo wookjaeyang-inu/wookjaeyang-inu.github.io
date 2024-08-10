@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: 'victoryang1653'
 
 menu:
 - {name: 'About',   url: 'about.html'}
@@ -21,7 +21,7 @@ social:
 - {icon: 'github',     link: 'https://github.com/wookjaeyang-inu'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/wookjae-yang-97292a174/'}
 - {icon: 'envelope',   link: 'mailto:wookjae.yang@inu.ac.kr'}
-- {icon: 'fa-brands fa-researchgate', link: 'https://www.researchgate.net/profile/Wookjae-Yang'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Wookjae-Yang'}
 
 # Customize site text
 pagination:
