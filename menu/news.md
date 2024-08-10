@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: News
+title: 
 permalink: /news
 ---
