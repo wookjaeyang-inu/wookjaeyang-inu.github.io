@@ -8,17 +8,11 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About',   url: 'about.html'}
-
 - {name: 'People', url: 'people.html'}
-
 - {name: 'Publications', url: 'publications.html'}
-
 - {name: 'Projects', url: 'projects.html'}
-
 - {name: 'Teaching', url: 'teaching.html'}
-
 - {name: 'News', url: 'news.html'}
-
 - {name: 'Contacts', url: 'contacts.html'}
 
 
