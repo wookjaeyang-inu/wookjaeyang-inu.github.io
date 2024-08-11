@@ -5,4 +5,4 @@ permalink: /projects
 ---
 
 
-## 2024
+## Funded Projects
