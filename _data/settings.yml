@@ -22,7 +22,7 @@ social:
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/wookjae-yang-97292a174/'}
 - {icon: 'envelope',   link: 'mailto:wookjae.yang@inu.ac.kr'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Wookjae-Yang'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?user=Sj8naFQAAAAJ&hl=en'}
+- {icon: 'google', link: 'https://scholar.google.com/citations?user=Sj8naFQAAAAJ&hl=en'}
 
 
 # Customize site text
