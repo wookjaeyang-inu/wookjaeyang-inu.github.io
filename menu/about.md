@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome to CAPP LAB!
+title: About us
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+CAPP Lab leverages urban data science and experimental research design to tackle complex urban challenges in areas intersecting land use, transportation, and smart technology. Our mission is to critically study these urban challenges using innovative approaches and to recommend evidence-based policy interventions that drive meaningful change.
 
 ### Getting Started
 
