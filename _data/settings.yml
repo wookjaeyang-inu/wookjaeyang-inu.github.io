@@ -18,10 +18,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github',     link: 'https://github.com/wookjaeyang-inu'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/wookjae-yang-97292a174/'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=Sj8naFQAAAAJ&hl=en'}
+- {icon: 'github',     link: 'https://github.com/wookjaeyang-inu'}
 - {icon: 'envelope',   link: 'mailto:wookjae.yang@inu.ac.kr'}
+
 
 
 
