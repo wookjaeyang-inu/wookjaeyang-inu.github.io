@@ -4,7 +4,7 @@ title: About us
 permalink: /about
 ---
 
-CAPP Lab leverages urban data science and experimental research design to tackle complex urban challenges in areas intersecting land use, transportation, and smart technology. Our mission is to critically study these urban challenges using innovative approaches and to recommend evidence-based policy interventions that drive meaningful change.
+CAPP Lab leverages urban data science and experimental research design to tackle urban challenges in the areas intersecting land use, transportation, and smart technology. Our mission is to provide evidence-based policy interventions that drive meaningful change.
 
 ### Getting Started
 
