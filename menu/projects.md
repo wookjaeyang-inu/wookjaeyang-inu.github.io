@@ -5,4 +5,3 @@ permalink: /projects
 ---
 
 
-## Funded Projects
