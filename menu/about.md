@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to CAPP Lab!
+title: About us
 permalink: /about
 ---
 
