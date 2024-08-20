@@ -4,8 +4,9 @@
   <body>
     <div class="container">
       {% include header.html %}
-      <img src="{{ site.github.url }}/assets/img/mountains.jpg" alt="Description of Image" class="responsive-image">
+      <h1>Welcome to CAPP Lab!</h1> <!-- Added Welcome Message -->
       <div class="content-container">
+       <img src="{{ site.github.url }}/assets/img/mountains.jpg" alt="Description of Image" class="responsive-image">
         {{ content }}
       </div>
       {% include footer.html %}
