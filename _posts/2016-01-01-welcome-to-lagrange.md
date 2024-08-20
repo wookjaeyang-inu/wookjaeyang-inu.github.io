@@ -1,9 +1,0 @@
----
-layout: page
-title: "Welcome to CAPP LAB!"
-author: "Wookjae Yang"
-permalink: /about
-image: mountains.jpg
----
-
-CAPP Lab leverages urban data science and innovative research methodologies to address challenges cities face at the intersection of land use, transportation, and smart technology. Our mission is to deliver evidence-based policy interventions that drive meaningful change, making cities livable, workable, and inclusive for everyone. Join us as we explore new avenues for city analytics and planning policy.
