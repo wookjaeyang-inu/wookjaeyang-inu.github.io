@@ -4,9 +4,12 @@
   <body>
     <div class="container">
       {% include header.html %}
-      <h1 style="font-size: 20px;">Welcome to CAPP Lab!</h1> <!-- Added Welcome Message with smaller font size -->
+      <h1 style="font-size: 22px;">Welcome to CAPP Lab!</h1> <!-- Added Welcome Message with smaller font size -->
       <div class="content-container">
         <img src="{{ site.github.url }}/assets/img/file.jpg" alt="Description of Image" class="responsive-image">
+        <p style="font-size: 16px;">
+          CAPP Lab leverages urban data science and innovative research methodologies to address challenges cities face at the intersection of land use, transportation, and smart technology. Our mission is to deliver evidence-based policy interventions that drive meaningful change, making cities livable, workable, and inclusive for everyone. Join us as we explore new avenues for city analytics and planning policy.
+        </p>
         {{ content }}
       </div>
       {% include footer.html %}
