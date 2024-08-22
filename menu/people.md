@@ -5,10 +5,10 @@ permalink: /people
 ---
 
 ## Faculty 
-### <span style="font-size: 24px;">**Wookjae Yang**</span>
-Assistant Professor  
-Department of Urban Policy and Administration  
-Incheon National University
+<span style="font-size: 16px;">**Wookjae Yang**</span>
+<span style="font-size: 16px;">Assistant Professor</span>  
+<span style="font-size: 16px;">Department of Urban Policy and Administration</span>  
+<span style="font-size: 16px;">Incheon National University</span>
 
 #### Educations  
 <span style="font-size: 16px;">2023.08. University of Utah, Ph.D. in Urban Planning</span>  
