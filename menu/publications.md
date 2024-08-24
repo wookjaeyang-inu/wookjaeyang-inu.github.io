@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications
 ---
 
-### Peer-Reviewed Publications 
+### Peer Reviewed Publications 
 <sub>(*First author, +Corresponding author)</sub> 
 1. **Yang, W.** <sup>*+</sup>  and Ewing, R. (2024) Unlocking the Role of Shared Dockless E-Scooters Bridging Last-Mile Gaps: A Quasi-Experimental Study of Metro Rail Transit in Los Angeles, _Travel Behaviour and Society_, vol. 37, <https://doi.org/10.1016/j.tbs.2024.100869>
 2. Kim, J., Ewing, R., **Yang, W.**, and Kalantari, H. (2024) Short-term and Mid-term Effect of Streetcar on Vehicle-Vehicle (and Vehicle-Pedestrian) Crash Rate on Adjacent Street, _Case Studies on Transport Policy_, vol.17, <https://doi.org/10.1016/j.cstp.2024.101262>
