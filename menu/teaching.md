@@ -5,8 +5,8 @@ permalink: /teaching
 ---
 
 ### Fall 2024  
-* GIS and Spatial Analysis (3 credits), Incheon National University
-* Urban Data Science (3 credits), Incheon National University
+* GIS and Spatial Data Analysis (3 credits), Incheon National University
+* Data Science for Urban Scientists (3 credits), Incheon National University
 * Real Estate Economics (3 credits), Incheon National University
 
 
