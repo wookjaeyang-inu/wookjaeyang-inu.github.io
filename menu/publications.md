@@ -22,7 +22,7 @@ permalink: /publications
 <sub>(* First author, + Corresponding author)</sub> 
 1. [Revise and Resubmit] **Yang, W.** <sup>*+</sup>, Kim, K., and Kim, J. Shared Dockless E-Scooter and Built Environment Near Los Angeles Metro Stations: Its Nonlinear Relationship Using Machine Learning Approach, _Transportation Planning and Technology_
 2. [Revise and Resubmit] **Yang, W.** <sup>*</sup> and Han, S. Direct And Indirect Effects of Road Design Attributes on Traffic Safety, _Accident Analysis and Prevention_ <http://dx.doi.org/10.2139/ssrn.4948392>
-3. [Under review] **Yang, W.** <sup>*+</sup> and Chang, J. A Quasi-Experimental Study of Light Rail Transit on Jobs-Housing Balance by Regional Typology: A Case Study of South Korea, _Journal of Transport Geography_
+3. [Revise and Resubmit] **Yang, W.** <sup>*+</sup> and Chang, J. A Quasi-Experimental Study of Light Rail Transit on Jobs-Housing Balance by Regional Typology: A Case Study of South Korea, _Journal of Transport Geography_
 4. [Under review] Azin, B., Ewing, R., **Yang, W.** <sup>+</sup>, Promy, N., Kalantari, H., and Tabassum, N. Urban Arterial Lane Width versus Speed and Crash Rates: A Comprehensive Study for Road Safety, _Journal of Urban Planning and Development_
 5. [Under review] Chang, J., Jeong, S., and **Yang, W.**, Which Vehicle Type is More Responsive to Traffic Information Provided on Local Roads? _European Transport Research Review_
 6. [Under review] Kalantari, H., **Yang, W.** <sup>+</sup>, and Ewing, R., Can Micromobility Connect First and Last-Mile of Public Rail Transit? Lessons Learned from Intercept User Survey in Utah, _Case Studies on Transport Policy_
