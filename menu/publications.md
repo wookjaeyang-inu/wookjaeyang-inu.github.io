@@ -31,10 +31,11 @@ permalink: /publications
 9. [Under review]  **Yang, W.** <sup>*</sup>, Han, S., and Bae, H., Perceived Safety vs. Actual Safety: Evidence from ESRA Survey of Road Users in South Korea, _Transportation Research Part F: Traffic Psychology and Behaviour_ <http://dx.doi.org/10.2139/ssrn.4948392>
 
 ### Manuscript in Preparation
-1. Yang, W. and Hong, A. Understanding Micromobility Safety: Built Environment, Risk, and Exposure
-2. Yang, W. and Hong, A. Environmental Correlates of Pedestrian Safety: The Role of Exposure and Risk
-3. Yang, W. and Kim, K.  Shared Micromobility and Built Environment: A Systematic Review and Meta-analysis
-4. Yang, W. and Han, S.  Combined Risks of Road Design Attributes and Traffic Conditions on Road Safety: A Systematic Review
+1. Understanding Micromobility Safety: Built Environment, Risk, and Exposure
+2. Environmental Correlates of Pedestrian Safety: The Role of Exposure and Risk
+3. A Meta-Regression Analysis of Built Environment Determinants of Shared Micromobility Trips
+4. A Systematic Review on Combined Risks of Road Design Attributes and Traffic Conditions Influencing Road Safety
+
 
 
 
