@@ -4,7 +4,6 @@ title: News
 permalink: /news
 ---
 
-# News  
 ### October 2024
 
 | **News**            | **Details**            |                                                                                                                                                                                                                                                       
