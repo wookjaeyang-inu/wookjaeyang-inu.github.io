@@ -5,7 +5,7 @@ permalink: /news
 ---
 
 ### October 2024
-- **[Publication Alert]** 01 October, 2024, A new publication in _Travel Behaviour and Society_ (IF=5.1), titled "Unlocking the Role of Shared Dockless E-Scooters Bridging Last-Mile Gaps: A Quasi-Experimental Study of Metro Rail Transit in Los Angeles." [Link](https://doi.org/10.1016/j.tbs.2024.100869) 
+- **[Publication Alert]** 01 October, A new publication in _Travel Behaviour and Society_ (IF=5.1), titled "Unlocking the Role of Shared Dockless E-Scooters Bridging Last-Mile Gaps: A Quasi-Experimental Study of Metro Rail Transit in Los Angeles." [Link](https://doi.org/10.1016/j.tbs.2024.100869) 
 
 ### September 2024
 - **[Conference presentation]** 17-22 September, Presented research titled, "A Quasi-Experimental Study of Light Rail Transit on Jobs-Housing Balance by Regional Typology: A Case Study of South Korea" and "Which Vehicle Type is More Responsive to Traffic Information Provided on Local Roads?" at _European Transportation Conference_, Antwerp, Belgium
