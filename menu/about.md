@@ -9,3 +9,4 @@ We pursue research that offers academic foundations for creating a livable, work
 
 For more information, please feel free to reach out through any available channels, or visit office at 28-413, Incheon National University.
 
+<img src="{{ site.github.url }}/assets/img/file.jpg" alt="Description of Image" class="responsive-image">
