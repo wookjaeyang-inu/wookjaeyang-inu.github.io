@@ -5,7 +5,7 @@ permalink: /people
 ---
 
 ### Subsections:
-- [Faculty](/people/faculty)
-- [Researcher](/people/researcher)
+- [Faculty](/people/faculty.md)
+- [Researcher](/people/researcher.md)
 
 
