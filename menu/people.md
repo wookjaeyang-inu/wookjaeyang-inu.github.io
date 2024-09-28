@@ -3,7 +3,8 @@ layout: page
 title: People
 permalink: /people
 ---
-[Faculty](/people/faculty) <br>
+[Faculty](/people/faculty)
+
 [Researcher](/people/researcher)
 
 
