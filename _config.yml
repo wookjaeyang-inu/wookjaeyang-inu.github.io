@@ -27,3 +27,13 @@ author:              'Wookjae Yang'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+header_pages:
+  - title: "People"
+    url: "/people"
+    children:
+      - title: "Faculty"
+        url: "/people/faculty"
+      - title: "Researcher"
+        url: "/people/researcher"
+   
