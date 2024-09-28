@@ -16,7 +16,7 @@ permalink: /people
 <span style="font-size: 16px;">2017.08. Seoul National University, Masters in Urban Planning</span>  
 <span style="font-size: 16px;">2012.02. Konkuk University, Bachelor in Architecture</span>
 
-#### Experiences 
+#### Experiences  
 <span style="font-size: 16px;">2024.09. ~ present  Assistant Professor, Incheon National University</span>  
 <span style="font-size: 16px;">2023.06. ~ 2024.08. Postdoctoral Researcher, Seoul National University</span>  
 <span style="font-size: 16px;">2023.08. ~ 2024.08. Research Fellow, University of Utah, Metropolitan Research Center</span>  
