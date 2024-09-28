@@ -5,6 +5,7 @@ permalink: /publications
 ---
 
 <h3>Peer Reviewed Publications <span style="font-size: 8px;">(* First author, + Corresponding author)</span></h3>
+
 1. Ewing, R., **Yang, W.** <sup>+</sup>, Promy, N.S., Kaniewska, J., and Tabassum, N. (2024) Selective State DOT Lane Width Standards and Guidelines to Reduce Speeds and Improve Safety, _Infrastructures_, 9(9), 141 <https://doi.org/10.3390/infrastructures9090141>
 2. **Yang, W.** <sup>*+</sup>  and Ewing, R. (2024) Unlocking the Role of Shared Dockless E-Scooters Bridging Last-Mile Gaps: A Quasi-Experimental Study of Metro Rail Transit in Los Angeles, _Travel Behaviour and Society_, vol. 37, <https://doi.org/10.1016/j.tbs.2024.100869>
 3. Kim, J., Ewing, R., **Yang, W.**, and Kalantari, H. (2024) Short-term and Mid-term Effect of Streetcar on Vehicle-Vehicle (and Vehicle-Pedestrian) Crash Rate on Adjacent Street, _Case Studies on Transport Policy_, vol.17, <https://doi.org/10.1016/j.cstp.2024.101262>
