@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications
 ---
 
-### Peer Reviewed Publications 
-<sup>(* First author, + Corresponding author)</sup> 
+### Peer Reviewed Publications  
+<sup>(* First author, + Corresponding author)<sup> 
 1. Ewing, R., **Yang, W.** <sup>+</sup>, Promy, N.S., Kaniewska, J., and Tabassum, N. (2024) Selective State DOT Lane Width Standards and Guidelines to Reduce Speeds and Improve Safety, _Infrastructures_, 9(9), 141 <https://doi.org/10.3390/infrastructures9090141>
 2. **Yang, W.** <sup>*+</sup>  and Ewing, R. (2024) Unlocking the Role of Shared Dockless E-Scooters Bridging Last-Mile Gaps: A Quasi-Experimental Study of Metro Rail Transit in Los Angeles, _Travel Behaviour and Society_, vol. 37, <https://doi.org/10.1016/j.tbs.2024.100869>
 3. Kim, J., Ewing, R., **Yang, W.**, and Kalantari, H. (2024) Short-term and Mid-term Effect of Streetcar on Vehicle-Vehicle (and Vehicle-Pedestrian) Crash Rate on Adjacent Street, _Case Studies on Transport Policy_, vol.17, <https://doi.org/10.1016/j.cstp.2024.101262>
@@ -18,7 +18,7 @@ permalink: /publications
 10. Choi, M., and **Yang, W.** <sup>*</sup> (2018) Physical, Economic, and Social Effects of Commercial Gentrification in Residential Area, _Journal of Korea Planning Association_, 53(1), 123-136. <https://doi.org/10.17208/jkpa.2018.02.53.1.123>
 11. Park, J., and **Yang, W.** <sup>+</sup> (2018) A Study on the Effectiveness of Overseas Construction Projects Using Official Development Assistance (ODA). Time Series Analysis (VECM) of S. Korea ODA 1991-2015, _Journal of Korea Contents Association_, 18(6), 144-154. <https://doi.org/10.5392/JKCA.2018.18.06.144>
 
-### Under Review Publications 
+### Under Review Publications  
 <sup>(* First author, + Corresponding author)</sup> 
 1. [Revise and Resubmit] **Yang, W.** <sup>*+</sup>, Kim, K., and Kim, J. Shared Dockless E-Scooter and Built Environment Near Los Angeles Metro Stations: Its Nonlinear Relationship Using Machine Learning Approach, _Transportation Planning and Technology_
 2. [Revise and Resubmit] **Yang, W.** <sup>*</sup> and Han, S. Direct And Indirect Effects of Road Design Attributes on Traffic Safety, _Accident Analysis and Prevention_ <http://dx.doi.org/10.2139/ssrn.4948392>
