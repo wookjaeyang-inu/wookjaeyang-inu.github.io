@@ -4,7 +4,6 @@ title: Faculty
 parent: People
 permalink: /people/faculty
 ---
-## Faculty 
 <span style="font-size: 16px;">**Wookjae Yang**</span>
 
 <span style="font-size: 16px;">Assistant Professor</span>  
