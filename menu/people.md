@@ -4,7 +4,7 @@ title: People
 permalink: /people
 ---
 
-[Faculty](/people/faculty.md)
-[Researcher](/people/researcher.md)
+[Faculty](/people/faculty)
+[Researcher](/people/researcher)
 
 
