@@ -12,6 +12,6 @@ permalink: /people/faculty
 <span style="font-size: 16px;">Department of Urban Policy and Administration</span>  
 <span style="font-size: 16px;">Incheon National University</span>
 
-
+<span style="font-size: 16px;">Research Interests: Land use and transportation, Traffic safety, Smart growth, Machine learning</span>
 
 
