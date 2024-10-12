@@ -4,7 +4,8 @@ title: Faculty
 parent: People
 permalink: /people/faculty
 ---
-<img src="assets/img/양욱재 반명함 .jpg" alt="Wookjae Yang" style="width: 150px; height: auto;"/>
+<img src="https://github.com/user-attachments/assets/f2d8d3ad-a441-434c-b37d-84d1904cc408" alt="IMG_5376" style="width: 200px; height: auto;"/>
+
 <span style="font-size: 16px;">**Wookjae Yang**</span>
 
 <span style="font-size: 16px;">Assistant Professor</span>  
