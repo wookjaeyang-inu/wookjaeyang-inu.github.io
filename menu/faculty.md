@@ -8,7 +8,7 @@ permalink: /people/faculty
 
 <span style="font-size: 16px;">**Wookjae Yang**</span>
 
-<span style="font-size: 16px;">Assistant Professor</span>  
+<span style="font-size: 16px;">Assistant Professor (2024.09 ~ Present)</span>  
 <span style="font-size: 16px;">Department of Urban Policy and Administration</span>  
 <span style="font-size: 16px;">Incheon National University</span>
 
