@@ -6,7 +6,7 @@ permalink: /news
 
 ### October 2024
 - **[Publication Alert]** 01 October, A new publication in _Travel Behaviour and Society_ (IF=5.1), titled "Unlocking the Role of Shared Dockless E-Scooters Bridging Last-  Mile Gaps: A Quasi-Experimental Study of Metro Rail Transit in Los Angeles." [Link](https://doi.org/10.1016/j.tbs.2024.100869)
-  <img src="https://github.com/user-attachments/assets/dfaf97b1-b92c-49d7-9e46-fcf3bf875149" alt="Screenshot 2024-10-13 at 8 26 45 PM" style="width: 500px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/791cc0b9-c5e9-4b28-8410-e91dbe987a32" alt="Screenshot 2024-10-13 at 8 47 51 PM" style="width: 500px; height: auto;"/>
 
 
  
