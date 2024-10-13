@@ -19,8 +19,7 @@ permalink: /news
 - **[Publication Alert]**  18 September, A new publication of a technical report funded by the Utah Department of Transportation, titled "Increasing Public Transportation Ridership by Integrated Transportation Planning With Micromobility Services in the State of Utah" [Link](https://rosap.ntl.bts.gov/view/dot/77450/dot_77450_DS1.pdf)   
 
 - **[Publication Alert]** 01 September,  A new publication in the _Case Studies on Transport Policy_ (IF=2.4), titled "Short and mid-term effect of the streetcar on vehicle-vehicle (and vehicle-pedestrian) crash rate on the adjacent street" [Link](https://doi.org/10.1016/j.cstp.2024.101262)
-
-  <img src="https://github.com/user-attachments/assets/1816e720-94e7-4a97-a88e-f21eb0ccaed8" alt="Screenshot 2024-10-13 at 8 34 15 PM" style="width: 500px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/1816e720-94e7-4a97-a88e-f21eb0ccaed8" alt="Screenshot 2024-10-13 at 8 34 15 PM" style="width: 500px; height: auto;"/>  
 
 - **[Publication Alert]** 01 September, A new publication in the _Infrastructures_ (IF=2.7), titled "Selective State DOT Lane Width Standards and Guidelines to Reduce Speeds and Improve Safety" [Link](https://doi.org/10.3390/infrastructures9090141)
 
