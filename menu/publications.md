@@ -21,14 +21,14 @@ permalink: /publications
 <h3>Under Review Publications <span style="font-size: 12px;">(* First author, + Corresponding author)</span></h3>
 
 1. [Revise and Resubmit] **Yang, W.** <sup>*+</sup>, Kim, K., and Kim, J. Shared Dockless E-Scooter and Built Environment Near Los Angeles Metro Stations: Its Nonlinear Relationship Using Machine Learning Approach, _Transportation Planning and Technology_
-2. [Revise and Resubmit] **Yang, W.** <sup>*</sup> and Han, S. Direct And Indirect Effects of Road Design Attributes on Traffic Safety, _Accident Analysis and Prevention_ <http://dx.doi.org/10.2139/ssrn.4948392>
+2. [Revise and Resubmit] **Yang, W.** <sup>*</sup> and Han, S. Direct And Indirect Effects of Road Design Attributes on Traffic Safety, _Journal of Safety Research_ <http://dx.doi.org/10.2139/ssrn.4948392>
 3. [Revise and Resubmit] **Yang, W.** <sup>*+</sup> and Chang, J. A Quasi-Experimental Study of Light Rail Transit on Jobs-Housing Balance by Regional Typology: A Case Study of South Korea, _Journal of Transport Geography_
 4. [Revise and Resubmit] Chang, J., Jeong, S., and **Yang, W.**, Which Vehicle Type is More Responsive to Traffic Information Provided on Local Roads? _European Transport Research Review_
-5. [Under review] Azin, B., Ewing, R., **Yang, W.** <sup>+</sup>, Promy, N., Kalantari, H., and Tabassum, N. Urban Arterial Lane Width versus Speed and Crash Rates: A Comprehensive Study for Road Safety, _Journal of Urban Planning and Development_
-6. [Under review] Kalantari, H., **Yang, W.** <sup>+</sup>, and Ewing, R., Can Micromobility Connect First and Last-Mile of Public Rail Transit? Lessons Learned from Intercept User Survey in Utah, _Case Studies on Transport Policy_
-7. [Under review] Hong, A., **Yang, W.**, and Choi, D., Healthy Aging in Place: A Systematic Review of Environmental Barriers, _Journal of Planning Literature_
-8. [Under review] Ewing, R., Ameli, H., Tabassum, N., Kalantari, H., **Yang, W.**, and Promy, N., Ways of Increasing Transit Ridership - Lessons Learned from Successful Transit Agencies, _Case Studies on Transport Policy_
-9. [Under review]  **Yang, W.** <sup>*</sup>, Han, S., and Bae, H., Perceived Safety vs. Actual Safety: Evidence from ESRA Survey of Road Users in South Korea, _Transportation Research Part F: Traffic Psychology and Behaviour_ <http://dx.doi.org/10.2139/ssrn.4948392>
+5. [Revise and Resubmit] Ewing, R., Ameli, H., Tabassum, N., Kalantari, H., **Yang, W.**, and Promy, N., Ways of Increasing Transit Ridership - Lessons Learned from Successful Transit Agencies, _Case Studies on Transport Policy_
+6. [Under review] Azin, B., Ewing, R., **Yang, W.** <sup>+</sup>, Promy, N., Kalantari, H., and Tabassum, N. Urban Arterial Lane Width versus Speed and Crash Rates: A Comprehensive Study for Road Safety, _Journal of Transport and Land Use_
+7. [Under review] Kalantari, H., **Yang, W.** <sup>+</sup>, and Ewing, R., Can Micromobility Connect First and Last-Mile of Public Rail Transit? Lessons Learned from Intercept User Survey in Utah, _Case Studies on Transport Policy_
+8. [Under review] Hong, A., **Yang, W.**, and Choi, D., Healthy Aging in Place: A Systematic Review of Environmental Barriers, _Journal of Planning Literature_
+9. [Under review]  **Yang, W.** <sup>*</sup>, Han, S., and Bae, H., Perceived Safety vs. Actual Safety: Evidence from ESRA Survey of Road Users in South Korea, _Accident Analysis and Prevention_ <http://dx.doi.org/10.2139/ssrn.4948392>
 
 ### Manuscript in Preparation
 1. Understanding Micromobility Safety: Built Environment, Risk, and Exposure
